@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\bin\Debug\net8.0\SerializationHelper.deps.json
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\bin\Debug\net8.0\SerializationHelper.dll
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\bin\Debug\net8.0\SerializationHelper.pdb
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.dll
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\refint\SerializationHelper.dll
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\SerializationHelper.pdb
+C:\Users\Admin\source\repos\WpfApp25\SerializationHelper\obj\Debug\net8.0\ref\SerializationHelper.dll
